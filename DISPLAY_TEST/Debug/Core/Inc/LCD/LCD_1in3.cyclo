@@ -1,0 +1,13 @@
+../Core/Inc/LCD/LCD_1in3.c:26:13:LCD_1IN3_Reset	1
+../Core/Inc/LCD/LCD_1in3.c:41:13:LCD_1IN3_SendCommand	1
+../Core/Inc/LCD/LCD_1in3.c:54:13:LCD_1IN3_SendData_8Bit	1
+../Core/Inc/LCD/LCD_1in3.c:67:13:LCD_1IN3_SendData_16Bit	1
+../Core/Inc/LCD/LCD_1in3.c:80:13:LCD_1IN3_InitReg	1
+../Core/Inc/LCD/LCD_1in3.c:159:13:LCD_1IN3_SetAttributes	2
+../Core/Inc/LCD/LCD_1in3.c:185:6:LCD_1IN3_Init	1
+../Core/Inc/LCD/LCD_1in3.c:206:6:LCD_1IN3_SetWindows	1
+../Core/Inc/LCD/LCD_1in3.c:229:6:LCD_1IN3_Clear	3
+../Core/Inc/LCD/LCD_1in3.c:247:6:LCD_1IN3_Display	3
+../Core/Inc/LCD/LCD_1in3.c:260:6:LCD_1IN3_DisplayWindows	3
+../Core/Inc/LCD/LCD_1in3.c:284:6:LCD_1IN3_DrawPaint	1
+../Core/Inc/LCD/LCD_1in3.c:296:6:LCD_1IN3_SetBackLight	1

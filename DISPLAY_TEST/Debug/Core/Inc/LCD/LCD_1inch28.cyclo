@@ -1,0 +1,13 @@
+../Core/Inc/LCD/LCD_1inch28.c:26:13:LCD_1IN28_Reset	1
+../Core/Inc/LCD/LCD_1inch28.c:41:13:LCD_1IN28_SendCommand	1
+../Core/Inc/LCD/LCD_1inch28.c:54:13:LCD_1IN28_SendData_8Bit	1
+../Core/Inc/LCD/LCD_1inch28.c:67:13:LCD_1IN28_SendData_16Bit	1
+../Core/Inc/LCD/LCD_1inch28.c:80:13:LCD_1IN28_InitReg	1
+../Core/Inc/LCD/LCD_1inch28.c:323:13:LCD_1IN28_SetAttributes	2
+../Core/Inc/LCD/LCD_1inch28.c:349:6:LCD_1IN28_Init	1
+../Core/Inc/LCD/LCD_1inch28.c:374:6:LCD_1IN28_SetWindows	1
+../Core/Inc/LCD/LCD_1inch28.c:397:6:LCD_1IN28_Clear	3
+../Core/Inc/LCD/LCD_1inch28.c:415:6:LCD_1IN28_Display	3
+../Core/Inc/LCD/LCD_1inch28.c:428:6:LCD_1IN28_DisplayWindows	3
+../Core/Inc/LCD/LCD_1inch28.c:452:6:LCD_1IN28_DrawPaint	1
+../Core/Inc/LCD/LCD_1inch28.c:464:6:LCD_1IN28_SetBackLight	1

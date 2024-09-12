@@ -1,0 +1,91 @@
+Core/Inc/example/LCD_1inch14_test.o: \
+ ../Core/Inc/example/LCD_1inch14_test.c \
+ ../Core/Inc/example/../image/image.h ../Core/Inc/example/LCD_Test.h \
+ ../Core/Inc/example/../Config/DEV_Config.h \
+ ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h \
+ ../Core/Inc/stm32f4xx_hal_conf.h \
+ ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
+ ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h \
+ ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h \
+ ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f413xx.h \
+ ../Drivers/CMSIS/Include/core_cm4.h \
+ ../Drivers/CMSIS/Include/cmsis_version.h \
+ ../Drivers/CMSIS/Include/cmsis_compiler.h \
+ ../Drivers/CMSIS/Include/cmsis_gcc.h \
+ ../Drivers/CMSIS/Include/mpu_armv7.h \
+ ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h \
+ ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+ ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
+ ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h \
+ ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h \
+ ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h \
+ ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h \
+ ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h \
+ ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h \
+ ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h \
+ ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h \
+ ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h \
+ ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
+ ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
+ ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+ ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h \
+ ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h \
+ ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
+ ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h \
+ ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
+ ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h \
+ ../Core/Inc/spi.h ../Core/Inc/main.h ../Core/Inc/tim.h \
+ ../Core/Inc/example/../Config/Debug.h ../Core/Inc/main.h \
+ ../Core/Inc/example/../GUI_DEV/GUI_Paint.h \
+ ../Core/Inc/example/../GUI_DEV/../Config/DEV_Config.h \
+ ../Core/Inc/example/../GUI_DEV/../Fonts/fonts.h \
+ ../Core/Inc/./Config/Debug.h ../Core/Inc/example/../Config/Debug.h \
+ ../Core/Inc/example/../LCD/LCD_1in14.h \
+ ../Core/Inc/example/../LCD/../Config/DEV_Config.h
+../Core/Inc/example/../image/image.h:
+../Core/Inc/example/LCD_Test.h:
+../Core/Inc/example/../Config/DEV_Config.h:
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h:
+../Core/Inc/stm32f4xx_hal_conf.h:
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h:
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h:
+../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h:
+../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f413xx.h:
+../Drivers/CMSIS/Include/core_cm4.h:
+../Drivers/CMSIS/Include/cmsis_version.h:
+../Drivers/CMSIS/Include/cmsis_compiler.h:
+../Drivers/CMSIS/Include/cmsis_gcc.h:
+../Drivers/CMSIS/Include/mpu_armv7.h:
+../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h:
+../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h:
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h:
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h:
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h:
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h:
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h:
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h:
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h:
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h:
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h:
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h:
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h:
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h:
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h:
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h:
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h:
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h:
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h:
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h:
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h:
+../Core/Inc/spi.h:
+../Core/Inc/main.h:
+../Core/Inc/tim.h:
+../Core/Inc/example/../Config/Debug.h:
+../Core/Inc/main.h:
+../Core/Inc/example/../GUI_DEV/GUI_Paint.h:
+../Core/Inc/example/../GUI_DEV/../Config/DEV_Config.h:
+../Core/Inc/example/../GUI_DEV/../Fonts/fonts.h:
+../Core/Inc/./Config/Debug.h:
+../Core/Inc/example/../Config/Debug.h:
+../Core/Inc/example/../LCD/LCD_1in14.h:
+../Core/Inc/example/../LCD/../Config/DEV_Config.h:
